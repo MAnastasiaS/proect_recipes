@@ -1,1 +1,1 @@
-# proect_recipes
+страница входа: index.html, style.css
