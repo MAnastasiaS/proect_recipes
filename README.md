@@ -28,6 +28,6 @@
 Разработка дизайна сайта, цветовая гамма - нежно серый, с акцентом на яркие детали, верстка страниц.
 
 
-=====================
+ссылка на фигму https://www.figma.com/design/NpHUOAEe6QKw5BPO9wEg8P/Untitled?node-id=0-1&t=GPxmRTmwlOGv3ynX-1
 
 
