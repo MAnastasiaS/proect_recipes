@@ -1,29 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background: #B0AFAB;
 
-
-
-.img1 {
-    position: relative;
-    width: 250px;
-    height: 350px;
-    margin-left: 68;
-    margin-right: 50;
-    
+}
+.container{
+    display: flex;
+}
+.card{
+    height: 500px;
+    margin: 50px;
+    box-shadow: 5px 5px 20px black;
+}
+img{
+    height: 500px;
 }
 
-.img2 {
-    position: relative;
-    width: 306px;
-    height: 318px;
-    margin-left: 50;
-    margin-right: 50;
-    
-}
-
-.img3 {
-    position: relative;
-    width: 255px;
-    height: 334px;
-    margin-left: 50;
-    margin-right: 68;
-    
-}
